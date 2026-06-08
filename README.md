@@ -22,9 +22,11 @@ one stylesheet, one block script. Read it, change it, run your own.
 
 ## Install
 
-**Download:** grab [`music4robots2dance2.zip`](music4robots2dance2.zip) (or the
-green *Code → Download ZIP*), then **Plugins → Add New → Upload Plugin** in
-WordPress and activate.
+**Download:** grab the prebuilt
+[`music4robots2dance2.zip`](https://github.com/gnugui/music4robots2dance2/releases/latest/download/music4robots2dance2.zip)
+from the [latest release](https://github.com/gnugui/music4robots2dance2/releases/latest)
+(or the green *Code → Download ZIP*), then **Plugins → Add New → Upload Plugin**
+in WordPress and activate.
 
 **Fork:** clone this repo, drop the folder into `wp-content/plugins/`, activate.
 
